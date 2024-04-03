@@ -1,0 +1,91 @@
+/* Resetting default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling container */
+.container {
+    display: flex;
+    padding: 100px;
+    background-color: #D2B48C; /* Earth tone color */
+}
+
+/* Styling video section */
+.video-section {
+    width: 33.33%;
+}
+
+.video-section video {
+    width: 100%;
+}
+
+/* Styling text section */
+.text-section {
+    width: 66.66%;
+    padding-left: 20px; /* Adding some padding for text */
+}
+h1{
+    padding-bottom: 30px;
+}
+p{
+    padding-bottom: 13px;
+}
+.date{
+    color: #2b2c2a;
+    padding-bottom: 15px;
+}
+
+.text-white {
+    color: white; /* Text color white */
+}
+
+.text-black {
+    color: black; /* Text color black */
+}
+
+/* Example of different background themes */
+.theme1 {
+    background-color: #F4A460; /* Sandy brown */
+}
+
+/* Example of different background themes */
+.theme1 {
+    background-color: #F0E68C; /* Khaki */
+}
+
+.theme2 {
+    background-color: #BC8F8F; /* Rosy brown */
+}
+
+.theme3 {
+    background-color: #B0C4DE; /* Light steel blue */
+}
+
+.theme4 {
+    background-color: #D8BFD8; /* Thistle */
+}
+
+.theme5 {
+    background-color: #F5DEB3; /* Wheat */
+}
+
+.theme6 {
+    background-color: #8FBC8F; /* Dark olive green */
+}
+
+.theme7 {
+    background-color: #CD853F; /* Peru */
+}
+
+.theme8 {
+    background-color: #556B2F; /* Dark olive green */
+}
+
+.theme9 {
+    background-color: #F5F5DC; /* Beige */
+}
+
+.theme10 {
+    background-color: #FFE4B5; /* Moccasin */
+}
